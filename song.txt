@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 sword and
 wall of shields
+=======
+Bruh
+Bruh
+Bruh
+Brih
+>>>>>>> c50289faa4355b171e4100ce501adad9608b9d1e
+Bruh
